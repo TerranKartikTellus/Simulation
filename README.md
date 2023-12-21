@@ -1,6 +1,6 @@
 # 🌌 Lumino: 1D Universe Simulation
 
-Lumino is a Python-based 1D universe simulation where you can explore the dynamics of a living ecosystem in a one-dimensional space. The simulation allows you to interact with and visualize a universe of creatures that can be alive or represent empty spaces.
+Lumino is a 1D universe simulation where you can explore the dynamics of a living ecosystem in a one-dimensional space. The simulation allows you to interact with and visualize a universe of creatures that can be alive or represent empty spaces.
 
 ## 🚀 Goal
 
