@@ -6,7 +6,7 @@ Lumino is a Python-based 1D universe simulation where you can explore the dynami
 
 The goal of Lumino is to provide a platform for experimenting with and observing the behavior of simple creatures in a one-dimensional universe. Users can customize the size of the universe, the number of creatures, and interact with the simulation to study emergent patterns.
 
-## 🌟 Current Implementation
+## 🌟 Current Implementation - 2023-12-21
 
 - The universe is represented by a one-dimensional array.
 - Each element in the array has properties such as ID and status (alive or empty).
