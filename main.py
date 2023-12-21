@@ -37,7 +37,7 @@ def main():
 
     # Initialize the visualizer and set window caption
     visualizer = Visualizer(universe.cells, pixel_size)
-    pygame.display.set_caption("Lumino: 1D Universe")
+    pygame.display.set_caption("🌌 Lumino: 1D Universe")
 
     # Run the visualization loop
     running = True
